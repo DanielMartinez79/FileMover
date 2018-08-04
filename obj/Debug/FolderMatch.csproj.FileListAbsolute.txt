@@ -1,0 +1,7 @@
+C:\Users\Danny\source\repos\FolderMatch\FolderMatch\obj\Debug\FolderMatch.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\FolderMatch\FolderMatch\obj\Debug\FolderMatch.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\FolderMatch\FolderMatch\bin\Debug\FolderMatch.exe.config
+C:\Users\Danny\source\repos\FolderMatch\FolderMatch\bin\Debug\FolderMatch.exe
+C:\Users\Danny\source\repos\FolderMatch\FolderMatch\bin\Debug\FolderMatch.pdb
+C:\Users\Danny\source\repos\FolderMatch\FolderMatch\obj\Debug\FolderMatch.exe
+C:\Users\Danny\source\repos\FolderMatch\FolderMatch\obj\Debug\FolderMatch.pdb
